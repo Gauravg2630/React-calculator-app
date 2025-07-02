@@ -54,7 +54,7 @@ The app will be live at:
 ⚠️ Note
 This calculator uses JavaScript’s eval() for evaluating expressions, which is not safe for production. For advanced apps, consider using a parser like mathjs.
 
-📸 ![Calculator Screenshot](./screenshot%20(357).png)
+📸 ![Calculator Screenshot](./Screenshot%20(357).png)
  
 🔗 GitHub
 Feel free to fork or star the repo:
