@@ -54,8 +54,8 @@ The app will be live at:
 ⚠️ Note
 This calculator uses JavaScript’s eval() for evaluating expressions, which is not safe for production. For advanced apps, consider using a parser like mathjs.
 
-📸 Screenshot
- ./screenshot.png
+📸 ![Calculator Screenshot](./screenshot%12(357).png)
+ 
 🔗 GitHub
 Feel free to fork or star the repo:
 🔗 https://github.com/Gauravg2630/React-calculator-app
