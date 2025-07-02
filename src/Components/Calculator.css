@@ -1,0 +1,22 @@
+.calculator {
+  width: 260px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ccc;
+  overflow: hidden;
+}
+
+.display {
+  background-color: #222;
+  color: white;
+  font-size: 2rem;
+  padding: 20px;
+  text-align: right;
+}
+
+.button-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+  padding: 10px;
+}

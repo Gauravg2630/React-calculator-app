@@ -1,0 +1,17 @@
+.calc-button {
+  padding: 20px;
+  font-size: 1.2rem;
+  border: none;
+  background-color: #e0e0e0;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.calc-button:hover {
+  background-color: #d5d5d5;
+}
+
+.calc-button:active {
+  background-color: #bcbcbc;
+}
